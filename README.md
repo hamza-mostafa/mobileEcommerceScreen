@@ -18,6 +18,16 @@ and then
 $ npm i
 ```
 
+
+## Running the application
+
+After downloading the repository; run the below
+
+```bash
+$ npm run start
+```
+
+
 ## API docs
 
 
